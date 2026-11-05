@@ -1,4 +1,4 @@
-# Pip-Boy GW6 — фанатский циферблат
+# Pip-Boy GW6 
 
 Зелёный ретроинтерфейс для часов на Wear OS, собранный в Samsung Watch Face Studio.
 
