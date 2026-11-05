@@ -1,0 +1,9 @@
+# Signing material and local build outputs
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+build/
+.DS_Store
+Thumbs.db

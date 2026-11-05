@@ -1,0 +1,13 @@
+{
+  "status": "User confirmed installation and live data on Galaxy Watch6 / Wear OS6 before export. Export copy additionally hides frames_v2 in AOD.",
+  "postExportChanges": [
+    "frames_v2 hidden in AOD"
+  ],
+  "machineSpecificPathsRemoved": 0,
+  "zipIntegrity": "passed",
+  "embeddedResourceReferencesChecked": 22,
+  "fontFilesEmbedded": false,
+  "signingKeysIncluded": false,
+  "wfsSha256": "82b046ad9d7c15dea4c6b49cb21f1ed3d3de99469ba24209e4e7bf2ddddcc11e",
+  "exportCopyOpenedInWFS": false
+}
